@@ -1,0 +1,3 @@
+[submodule "projects/slither"]
+	path = projects/slither
+	url = git@github.com:xtrementl/slither.git
